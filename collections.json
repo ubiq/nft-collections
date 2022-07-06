@@ -1,0 +1,22 @@
+{
+  "0x81f1a6e026d49c2260a8d6d8e14bca1628c1df43": {
+    "name": "nCeption",
+    "desc": "The dream is real",
+    "www": "https://nception.ubiqsmart.com"
+  },
+  "0x0ec8ce8fcba64592286a2b3f31c0d4a5e54fd309": {
+    "name": "Ubiq Posters",
+    "desc": "Ubiq posters official",
+    "www": "https://poster.ubiqsmart.com/"
+  },
+  "0x0e2fbba88c5e526f5160af1b9ad79a20130b2216": {
+    "name": "GB89",
+    "desc": "Game Boy which can draw any function, 100% on chain.",
+    "www": "https://ubiq.github.io/gb89/"
+  },
+  "0x1e1628a35c82169f876f97c9ce5b6533895c2b22": {
+    "name": "CHIMP",
+    "desc": "On-Chain Image Manipulation Program",
+    "www": "https://chimp.ubiqsmart.com"
+  }
+}
