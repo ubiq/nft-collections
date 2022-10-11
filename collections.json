@@ -18,5 +18,10 @@
     "name": "CHIMP",
     "desc": "On-Chain Image Manipulation Program",
     "www": "https://chimp.ubiqsmart.com"
+  },
+  "0xc3d585288d35215754e970a23dd8de37a08e71b7": {
+    "name": "Cryptsters",
+    "desc": "The Great Pixelation",
+    "www": "https://cryptsters.ubiqsmart.com"
   }
 }
